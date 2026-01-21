@@ -21,6 +21,7 @@ One-hot encoding of labels
 Train-test split (80-20)
 
 🧠 Model Architecture
+
 Deep Learning Model (LSTM and GRU-based)
 python
 Input Layer → GRU(256) → Flatten → Dense(3, softmax)
