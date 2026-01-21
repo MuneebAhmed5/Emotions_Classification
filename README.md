@@ -1,5 +1,6 @@
  # Human Emotions Classification System
 Project Overview
+
 This notebook demonstrates the use of machine learning and deep learning techniques for classifying human emotions based on brain signal data. The project uses a LSTM and GRU-based neural network along with several traditional ML classifiers to predict emotional states (Neutral, Sad, Angry) from FNIRS signal data.
 
 📊 Dataset
